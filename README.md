@@ -1,4 +1,4 @@
-##### Solidity Mini Projects Repository
+## Solidity Mini Projects Repository
 
 Welcome to the Solidity Mini Projects Repository! This repository contains a collection of small projects and code examples written in Solidity, a smart contract programming language. These projects serve as learning resources and practical implementations for blockchain developers.
 
